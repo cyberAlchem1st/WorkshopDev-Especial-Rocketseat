@@ -18,7 +18,7 @@ Para instalar as depêndencias execute os seguintes comandos no terminal:
 
 Para iniciar o servidor: npm start ou node server.js
 
-O servidor será iniciado no localhost, porta 3000.
+O servidor será iniciado em http://localhost:3000/
 
 ![Image description](https://i.imgur.com/SuA2gRu.png)
 
