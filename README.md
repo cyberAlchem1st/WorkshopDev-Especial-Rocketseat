@@ -7,9 +7,9 @@ A proposta da Casa Criativa é ser uma aplicação em que é possível adicionar
 
 Foram utilizadas na aplicação as seguintes tecnologias: HTML, CSS, JavaScript, NodeJS, Nunjucks, Express e SQLite3.
 
-Para rodar o servidor no seu computador, você precisara ter o nodeJS e de suas depêndencias.
-Para instalar o nodeJS: https://nodejs.org/en/
-Para instalar as depêndencias execute os seguintes comandos no terminal:
+Para rodar o servidor no seu computador, você precisara ter o nodeJS e de suas depêndencias.<br/>
+Para instalar o nodeJS: https://nodejs.org/en/<br/>
+Para instalar as depêndencias execute os seguintes comandos no terminal:<br/>
 
 * npm init -y
 * npm i express
