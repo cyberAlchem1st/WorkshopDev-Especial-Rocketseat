@@ -16,7 +16,7 @@ Para instalar as depêndencias execute os seguintes comandos no terminal:
 * npm i nunjucks
 * npm i sqlite3
 
-Para iniciar o servidor: npm start
+Para iniciar o servidor: npm start ou node server.js
 
 O servidor será iniciado no localhost, porta 3000.
 
