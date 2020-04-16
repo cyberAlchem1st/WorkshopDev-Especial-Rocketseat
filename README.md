@@ -17,6 +17,7 @@ npm i nunjucks
 npm i sqlite3
 
 Para iniciar o servidor: npm start
+
 O servidor será iniciado no localhost, porta 3000.
 
 ![Image description](https://i.imgur.com/SuA2gRu.png)
