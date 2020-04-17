@@ -1,5 +1,5 @@
 # WorkshopDev - Especial Rocketseat
-##Casa criativa: ideias para enfrentar a crise do coronavirus
+## Casa criativa: ideias para enfrentar a crise do coronavirus
 
 Projeto feito a partir do Workshop Especial da Rocketseat, realizado entre os dias 23/03 e 27/03.
 
